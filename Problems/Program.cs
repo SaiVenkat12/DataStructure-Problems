@@ -10,8 +10,11 @@ namespace Problem
             //primenum Prime = new primenum();
             //Prime.primenumber();
 
-            BubbleSort Bsort= new BubbleSort();
-            Bsort.Bubble();
+            //BubbleSort Bsort= new BubbleSort();
+            //Bsort.Bubble();
+
+            PallindromeNumber pallin = new PallindromeNumber();
+            pallin.Pallindrome();
 
         }
     }

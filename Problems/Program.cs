@@ -16,8 +16,12 @@ namespace Problem
             //PallindromeNumber pallin = new PallindromeNumber();
             //pallin.Pallindrome();
 
-            Anagram an= new Anagram();
-            an.anagram();
+            //Anagram an= new Anagram();
+            //an.anagram();
+
+            InsertionSort insert=new InsertionSort();
+            insert.Insertion();
+
         }
     }
 }

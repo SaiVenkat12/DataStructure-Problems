@@ -13,9 +13,11 @@ namespace Problem
             //BubbleSort Bsort= new BubbleSort();
             //Bsort.Bubble();
 
-            PallindromeNumber pallin = new PallindromeNumber();
-            pallin.Pallindrome();
+            //PallindromeNumber pallin = new PallindromeNumber();
+            //pallin.Pallindrome();
 
+            Anagram an= new Anagram();
+            an.anagram();
         }
     }
 }

@@ -19,9 +19,11 @@ namespace Problem
             //Anagram an= new Anagram();
             //an.anagram();
 
-            InsertionSort insert=new InsertionSort();
-            insert.Insertion();
+            //InsertionSort insert=new InsertionSort();
+            //insert.Insertion();
 
+
+            Console.WriteLine(BinarySearching.Binarysearch("bike"));
         }
     }
 }
